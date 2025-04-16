@@ -1,6 +1,8 @@
 README for LuaJIT 2.1
 ---------------------
 
+Archived: This fork was used for Real-Engine, which is no longer active.
+
 LuaJIT is a Just-In-Time (JIT) compiler for the Lua programming language.
 
 Project Homepage: https://luajit.org/
